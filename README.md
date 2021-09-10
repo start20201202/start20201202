@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Education:
+My Education:
 - GoIT - Certificate English HTML.
 - RS School - JS / FRONT-END.
 - RS School - REACT.
