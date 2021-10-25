@@ -8,4 +8,5 @@ My Education:
 - WebDev - React & Redux.
 - Ulbi TV - Redux
 
-[My resume](https://start20201202.github.io/rsschool-cv/)
+[My resume Front-End](https://start20201202.github.io/rsschool-cv/)
+[My resume Analyst](https://start20201202.github.io/Resume_Lehka_Tetiana/)
