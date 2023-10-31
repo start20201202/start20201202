@@ -6,7 +6,6 @@ My Education:
 - RS School - REACT.
 - UDEMY - JavaScript + React.
 - WebDev - React & Redux.
-- Ulbi TV - Redux
 - SQL Academy
 
 
