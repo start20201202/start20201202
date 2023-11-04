@@ -5,7 +5,7 @@ My Education:
 - RS School - JS / FRONT-END.
 - RS School - REACT.
 - UDEMY - JavaScript + React.
-- WebDev - React & Redux.
 - SQL Academy
+- Main Academy - Data Science
 
 
