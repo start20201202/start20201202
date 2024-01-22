@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 My Education:
-- GoIT - Certificate English HTML.
 - RS School - JS / FRONT-END.
-- RS School - REACT.
-- UDEMY - JavaScript + React.
 - SQL Academy
-- Main Academy - Data Science
+- Data Science - Main Academy (10.2023 - 02.2024)
+- English HTML - GoIT (2020)
+- Certificate Intermediate level - Yappi (january 2024)
+
 
 
